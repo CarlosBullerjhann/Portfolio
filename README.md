@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 link dos projetos que participei do desenvolvimento.                                                                        
 https://www.edvjr.com.br                                                                         
 	Desenvolvedor no projeto.                                                                      
